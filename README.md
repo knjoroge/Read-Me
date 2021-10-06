@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knjoroge
-- 👀 I’m interested in creating projects in Python and Javascript
-- 🌱 I’m currently learning Python and Javascript
+- 👀 I’m interested in being a sponge and learning more.
+- 🌱 I’m currently working in DevOps
 - 📫 How to reach me https://www.linkedin.com/in/knjoroge/
 
 <!---
