@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knjoroge
-- 👀 I’m interested in being a sponge and learning more.
-- 🌱 I’m currently working in DevOps
+- 👀 I’m interested in being a sponge.
+- 🌱 DevOps Engineer
 - 📫 How to reach me https://www.linkedin.com/in/knjoroge/
 
 <!---
