@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knjoroge
-- 👀 I’m interested in being a sponge.
+- 🧽 Sponge mentality
 - 🌱 Engineer
 - 📫 How to reach me https://www.linkedin.com/in/knjoroge/
 
