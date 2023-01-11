@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knjoroge
 - 🧽 Sponge mentality
-- 🌱 Engineer
+- 🌱 Platform Engineer
 - 📫 How to reach me https://www.linkedin.com/in/knjoroge/
 
 <!---
